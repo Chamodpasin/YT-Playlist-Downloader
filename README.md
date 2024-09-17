@@ -93,6 +93,6 @@ If you would like to contribute to this project, Please Contact me
 ## Contact
 
 For any questions or issues, please open an issue on the GitHub repository or contact me.
-  chamodpasindusocial@gmail.com
-  linkdin
+  - chamodpasindusocial@gmail.com
+  - linkdin/in/dmcp
 
